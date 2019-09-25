@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Mutmaidah kawaiiii >///<
+                    Adillafebiana   
                 </div>
 
                 <div class="links">
